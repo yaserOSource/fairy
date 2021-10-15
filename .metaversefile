@@ -1,5 +1,15 @@
 {
   "name": "fairy",
   "start_url": "fairy.glb",
+  "components": [
+    {
+      "key": "pet",
+      "value": {
+        "idleAnimation": "Default Take",
+        "walkAnimation": "Default Take",
+        "runAnimation": ""
+      }
+    }
+  ],
   "copyright": "Fairy | The Legend of Zelda: BOTW (https://skfb.ly/6vAV6) by Lumhax is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/)."
 }
